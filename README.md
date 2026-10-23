@@ -2,6 +2,7 @@
 <p align="center"><b>Full Stack Software Engineer</b> · Java Spring Boot · React · Next.js · Indonesia</p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/danangfirmantara/"><img src="https://img.shields.io/badge/LinkedIn-danangfirmantara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:danangfirmantara837@gmail.com"><img src="https://img.shields.io/badge/Email-danangfirmantara837%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Indonesia-2ea44f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
