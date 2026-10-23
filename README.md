@@ -15,7 +15,7 @@ I build end-to-end web applications — from **REST APIs with Java & Spring Boot
 React, Next.js, and Angular**. I care about clean, reusable code (shared-first, DRY), responsive UI, and
 shipping apps that are easy to run and deploy with Docker.
 
-- Currently building **[Kotak Bisnis](https://github.com/DanangFirmantara/kotak-bisnis)** — a glassmorphism business dashboard
+- Currently building **[Kotak Bisnis](https://github.com/DanangFirmantara/kotak-bisnis)** — a glassmorphism business dashboard ([live demo](https://kotak-bisnis.danangfirmantara837.workers.dev))
 - Exploring 3D on the web with **Three.js / React Three Fiber**
 - Open to collaboration on full-stack projects
 
@@ -53,7 +53,7 @@ shipping apps that are easy to run and deploy with Docker.
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Kotak Bisnis](https://github.com/DanangFirmantara/kotak-bisnis)** | Business dashboard with glassmorphism UI, charts, 3D card, FAQ, health page — fully responsive | React · TypeScript · Tailwind · Recharts |
+| **[Kotak Bisnis](https://github.com/DanangFirmantara/kotak-bisnis)** · [Live demo](https://kotak-bisnis.danangfirmantara837.workers.dev) | Business dashboard with glassmorphism UI, charts, 3D card, FAQ, health page — fully responsive | React · TypeScript · Tailwind · Recharts |
 | **[WareTrack 3D](https://github.com/DanangFirmantara/WareTrack)** | Isometric 3D warehouse tracking dashboard with animated forklifts & trucks and a live shipment tracker | React · Three.js · R3F |
 | **[Undanganku](https://github.com/DanangFirmantara/undanganku-nextjs)** | Digital wedding invitation platform with JWT auth, deployed with Docker & Nginx | Spring Boot · Next.js · PostgreSQL |
 | **[POS System](https://github.com/DanangFirmantara/nextjs-pos)** | Point of Sale app with separated frontend & backend monorepo | Next.js · TypeScript |
